@@ -25,23 +25,4 @@ public class ContaPoupanca extends Conta {
 		System.out.println("Aniversário da Conta: " + this.aniversario);
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
 }
